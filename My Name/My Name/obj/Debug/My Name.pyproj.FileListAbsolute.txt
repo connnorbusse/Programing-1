@@ -1,0 +1,12 @@
+C:\Users\busse.c\Desktop\Programing 1\My Name\My Name\bin\Debug\My Name.exe.config
+C:\Users\busse.c\Desktop\Programing 1\My Name\My Name\bin\Debug\My Name.exe
+C:\Users\busse.c\Desktop\Programing 1\My Name\My Name\bin\Debug\My Name.dll
+C:\Users\busse.c\Desktop\Programing 1\My Name\My Name\bin\Debug\IronPython.dll
+C:\Users\busse.c\Desktop\Programing 1\My Name\My Name\bin\Debug\IronPython.Modules.dll
+C:\Users\busse.c\Desktop\Programing 1\My Name\My Name\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\busse.c\Desktop\Programing 1\My Name\My Name\bin\Debug\Microsoft.Scripting.dll
+C:\Users\busse.c\Desktop\Programing 1\My Name\My Name\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\busse.c\Desktop\Programing 1\My Name\My Name\obj\Debug\My Name.pyprojResolveAssemblyReference.cache
+C:\Users\busse.c\Desktop\Programing 1\My Name\My Name\obj\Debug\My_Name.MainForm.resources
+C:\Users\busse.c\Desktop\Programing 1\My Name\My Name\obj\Debug\My Name.pyproj.GenerateResource.Cache
+C:\Users\busse.c\Desktop\Programing 1\My Name\My Name\obj\Debug\My Name.exe

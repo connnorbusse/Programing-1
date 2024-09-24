@@ -1,0 +1,12 @@
+C:\Users\busse.c\Desktop\Programing 1\Favorit quote\Favorit quote\bin\Debug\Favorit quote.exe.config
+C:\Users\busse.c\Desktop\Programing 1\Favorit quote\Favorit quote\bin\Debug\Favorit quote.exe
+C:\Users\busse.c\Desktop\Programing 1\Favorit quote\Favorit quote\bin\Debug\Favorit quote.dll
+C:\Users\busse.c\Desktop\Programing 1\Favorit quote\Favorit quote\bin\Debug\IronPython.dll
+C:\Users\busse.c\Desktop\Programing 1\Favorit quote\Favorit quote\bin\Debug\IronPython.Modules.dll
+C:\Users\busse.c\Desktop\Programing 1\Favorit quote\Favorit quote\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\busse.c\Desktop\Programing 1\Favorit quote\Favorit quote\bin\Debug\Microsoft.Scripting.dll
+C:\Users\busse.c\Desktop\Programing 1\Favorit quote\Favorit quote\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\busse.c\Desktop\Programing 1\Favorit quote\Favorit quote\obj\Debug\Favorit quote.pyprojResolveAssemblyReference.cache
+C:\Users\busse.c\Desktop\Programing 1\Favorit quote\Favorit quote\obj\Debug\Favorit_quote.MainForm.resources
+C:\Users\busse.c\Desktop\Programing 1\Favorit quote\Favorit quote\obj\Debug\Favorit quote.pyproj.GenerateResource.Cache
+C:\Users\busse.c\Desktop\Programing 1\Favorit quote\Favorit quote\obj\Debug\Favorit quote.exe
